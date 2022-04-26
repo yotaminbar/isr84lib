@@ -1,5 +1,5 @@
 # isr84lib
-Conversion between ITM and WGS84 coordinates, in C
+Conversion between ITM (Israeli Transverse Mercator) and WGS84 coordinates, in C
 
 Code by Joseph Gray given in c++ here:
 https://zvikabenhaim.appspot.com/software/ITM/isr84lib.cpp
